@@ -15,9 +15,9 @@ return(
         </div>
 
         <div className={styles.rights}>
-        Developed by{"Yura-Platonov"}
+        Developed by {" "}
         <a href="https://github.com/Yura-Platonov" target="_blank" rel="noreferrer">
-            Tomkovich
+          Yura-Platonov
         </a>
         </div>
         <div className={styles.socials}>
