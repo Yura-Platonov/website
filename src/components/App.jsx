@@ -16,11 +16,12 @@ const App = () => {
     return(
     <div className='app'>
         <Header/>
-        <Footer/>
+        <AppRoutes/>
         <div className='container'>
         <Sidebar/>
         </div>
-        <AppRoutes/>
+        <Footer/>
+        
     </div>
     )
 }
